@@ -9,3 +9,4 @@ Includes:
   5. Simple Loops
   6. Drawing Figures with Loops
   7. Advanced Loops
+  8. Practice Exam Problems
