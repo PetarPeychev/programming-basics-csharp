@@ -10,3 +10,4 @@ Includes:
   6. Drawing Figures with Loops
   7. Advanced Loops
   8. Practice Exam Problems
+  9. Final Exam (November 5th 2017) - further info in the readme.
